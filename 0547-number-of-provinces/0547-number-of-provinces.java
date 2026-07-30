@@ -1,25 +1,36 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        int count = 0; //to count how many times we called the traversal on a node. This would traverse on the first node of the connected components
-
-        // convert the matrix into an adjacency list
         List<List<Integer>> adjList = new ArrayList<>();
-        int[] visited = new int[isConnected.length];
-        for(int row = 0; row < isConnected.length; row++){
-            if(visited[row] == 0){
-                count++;
-                dfs(row, visited, isConnected);
+        //convert the matrix to an adjacencyList 
+        for(int city = 0; city < isConnected.length; city++){
+            adjList.add(new ArrayList<>());
+        }
 
+        for(int city1 = 0; city1 < isConnected.length; city1++){
+            for(int city2 = 0; city2 < isConnected.length; city2++){
+                if(isConnected[city1][city2] == 1){
+                    adjList.get(city1).add(city2);
+                    adjList.get(city2).add(city1);
+                }
+            }
+        }
+
+        boolean[] visited = new boolean[isConnected.length];
+        int count = 0;
+        for(int city = 0; city < isConnected.length; city++){
+            if(visited[city] == false){
+                count += 1;
+                dfs(city, visited, adjList);
             }
         }
         return count;
     }
 
-    public static void dfs(int node, int[] visited, int[][] isConnected){
-        visited[node] = 1;
-        for(int row = 0; row < isConnected.length; row++){
-            if(visited[row] == 0 && isConnected[node][row] == 1){
-                dfs(row, visited, isConnected);
+    public void dfs(int city, boolean[] visited, List<List<Integer>> adjList){
+        visited[city] = true;
+        for(int neighbor : adjList.get(city)){
+            if(visited[neighbor] == false){
+                dfs(neighbor, visited, adjList);
             }
         }
     }
