@@ -21,8 +21,8 @@ class Solution {
 
         List<List<Integer>> result = new ArrayList<>();
 
-        for(int row = 0; row<lastRow; row++){
-            for(int col = 0; col<lastCol; col++){
+        for(int row = 0; row<heights.length; row++){
+            for(int col = 0; col<heights[0].length; col++){
                 //check if from all the borders and if theres any cell which is true for both the oceans, then add it to list
                 if(visitedPacific[row][col] == true && visitedAtlantic[row][col] == true){
                     result.add(Arrays.asList(row, col));
