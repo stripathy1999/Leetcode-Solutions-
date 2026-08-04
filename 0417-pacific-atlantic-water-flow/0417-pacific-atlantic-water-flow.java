@@ -23,6 +23,7 @@ class Solution {
 
         for(int row = 0; row<lastRow; row++){
             for(int col = 0; col<lastCol; col++){
+                //check if from all the borders and if theres any cell which is true for both the oceans, then add it to list
                 if(visitedPacific[row][col] == true && visitedAtlantic[row][col] == true){
                     result.add(Arrays.asList(row, col));
                 }
