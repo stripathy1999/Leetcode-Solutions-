@@ -36,7 +36,7 @@ class Solution {
 
     
     public void dfs(int row, int col, char[][] board){
-        if(row<0 || row>=board.length || col<0 || col>=board[0].length || board[row][col] != 'O' || board[row][col] == 'X'){
+        if(row<0 || row>=board.length || col<0 || col>=board[0].length || board[row][col] != 'O'){
             return;
         }
         board[row][col] = 'T';
