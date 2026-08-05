@@ -31,22 +31,16 @@ class Solution {
         return;
     }
 
-    int[][] directions = new int[][]{{1,0},{0,1},{0,-1},{-1,0}};
     
     public void dfs(int row, int col, char[][] board){
+        if(row<0 || row>=board.length || col<0 || col>=board[0].length || board[row][col] != 'O' || board[row][col] == 'X'){
+            return;
+        }
         board[row][col] = 'T';
 
-        for(int[] direction : directions){
-            int nextRow = row + direction[0];
-            int nextCol = col + direction[1];
-
-            if(nextRow<0 || nextRow>=board.length || nextCol<0 || nextCol>=board[0].length){
-                continue;
-            }
-
-            if(board[nextRow][nextCol] == 'O'){
-                dfs(nextRow, nextCol, board);
-            }
-        }
+        dfs(row+1, col, board);
+        dfs(row-1, col, board);
+        dfs(row, col+1, board);
+        dfs(row, col-1, board);
     }
 }
