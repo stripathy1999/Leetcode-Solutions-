@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,29 +16,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Union-Find
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
+| [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 <!---LeetCode Topics End-->
