@@ -45,7 +45,7 @@ class Solution {
             }
         }
 
-        inCurrentPath[course] = false;
+        //inCurrentPath[course] = false;
         visited[course] = true;
 
         return true;
