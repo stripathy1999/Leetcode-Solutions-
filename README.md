@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0207-course-schedule) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
