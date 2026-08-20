@@ -1,4 +1,49 @@
+//Topological Sort - Kahn's Algorithm
 class Solution {
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+
+        int[] inDegree = new int[numCourses];
+        Arrays.fill(inDegree, 0);
+
+        Queue<Integer> queue = new ArrayDeque<>();
+
+        List<List<Integer>> adjList = new ArrayList<>();
+        for(int i=0 ; i<numCourses; i++){
+            adjList.add(new ArrayList<>());
+        }
+        for(int i=0; i<prerequisites.length; i++){
+            int preReq = prerequisites[i][1];
+            int course = prerequisites[i][0];
+
+            adjList.get(preReq).add(course);
+            inDegree[course]++;
+        }
+
+        for(int i=0; i<inDegree.length; i++){
+            if(inDegree[i] == 0){
+                queue.add(i);
+            }
+        }
+
+        int result = 0;
+        while(!queue.isEmpty()){
+            int currentCourse = queue.poll();
+            result++;
+
+            for(int nextCourse : adjList.get(currentCourse)){
+                inDegree[nextCourse]--;
+                if(inDegree[nextCourse] == 0){
+                    queue.add(nextCourse);
+                }
+            }
+        }
+        return result == numCourses;    
+    }
+}
+
+//DFS with Cycle Detection
+
+/*class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         //we basically have to detect cycle in the prereq -> course directed graph
 
@@ -50,4 +95,4 @@ class Solution {
 
         return true;
     }
-}
+}*/
