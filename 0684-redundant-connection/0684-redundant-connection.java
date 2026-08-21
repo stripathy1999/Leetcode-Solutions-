@@ -1,29 +1,26 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         List<List<Integer>> adjList = new ArrayList<>();
-       
-        for(int i = 0; i<=edges.length; i++){
+        for(int i=0; i<=edges.length; i++){
             adjList.add(new ArrayList<>());
         }
-
         for(int i=0; i<edges.length; i++){
             int u = edges[i][0];
             int v = edges[i][1];
-            
-            boolean[] visited = new boolean[edges.length+1];
 
-            if(dfs(u, v, visited, adjList) == false){
-                adjList.get(u).add(v);
-                adjList.get(v).add(u);
-            }
-            else{
+            boolean[] visited = new boolean[edges.length+1];
+            
+            if(dfs(u, v, visited, adjList) == true){
                 return new int[]{u, v};
             }
+
+            adjList.get(u).add(v);
+            adjList.get(v).add(u);
         }
         return new int[0];
     }
     public boolean dfs(int u, int v, boolean[] visited, List<List<Integer>> adjList){
-        if(u == v){
+        if(u == v){ // were able to reach from u to v through a path with dfs
             return true;
         }
 
@@ -35,6 +32,7 @@ class Solution {
                 }
             }
         }
+
         return false;
     }
 }
