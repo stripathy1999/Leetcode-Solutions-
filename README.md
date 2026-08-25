@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
