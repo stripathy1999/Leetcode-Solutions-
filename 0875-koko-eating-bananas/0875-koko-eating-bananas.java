@@ -1,23 +1,31 @@
 class Solution {
-    public int minEatingSpeed(int[] piles, int H) {
-        int lo = 1;
-        int hi = 1_000_000_000;
-        while (lo < hi) {
-            int mi = (lo + hi) / 2;
-            if (!possible(piles, H, mi))
-                lo = mi + 1;
-            else
-                hi = mi;
+    public int minEatingSpeed(int[] piles, int h) {
+        int low = 1;
+        int high = 0;
+        for(int pile : piles){
+            high = Math.max(pile, high);
         }
 
-        return lo;
-    }
+        while(low <= high){
+            int mid_k = low + (high-low) / 2;
+            
+            int totalHours_at_k = timeAtKSpeed(mid_k, piles);
 
-    // Can Koko eat all bananas in H hours with eating speed K?
-    public boolean possible(int[] piles, int H, int K) {
-        int time = 0;
-        for (int p: piles)
-            time += (p-1) / K + 1;
-        return time <= H;
+            if(totalHours_at_k <= h){
+                high = mid_k - 1;
+            }
+            else{
+                low = mid_k + 1;
+            }
+        }
+        return low;
+    }
+    public int timeAtKSpeed(int k, int[] piles){
+        int totalTime = 0;
+        for(int pile : piles){
+            totalTime += Math.ceil((double) pile/k);
+        }
+
+        return totalTime; 
     }
 }
