@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 ## Breadth-First Search
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
