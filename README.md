@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0875-koko-eating-bananas) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
+| [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
 <!---LeetCode Topics End-->
