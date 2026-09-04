@@ -6,40 +6,40 @@ class Allocator {
     }
     
     public int allocate(int size, int mID) {
-        int count = 0;
-        int start = -1;
+        int free_count = 0;
+        int block_start = -1;
 
         for(int i=0 ; i<memory.length; i++){
             if(memory[i] == 0){
-                if(count == 0){
-                    start = i;
+                if(free_count == 0){
+                    block_start = i;
                 }
-                count++;
+                free_count++;
 
-                if(count == size){
-                    for(int j=start; j<start+size; j++){
+                if(free_count == size){
+                    for(int j=block_start; j<block_start+size; j++){
                         memory[j] = mID;
                     }
-                    return start;
+                    return block_start;
                 }
             }
             else{
-                count = 0;
-                start = -1;
+                free_count = 0;
+                block_start = -1;
             }
         }
         return -1;
     }
     
     public int freeMemory(int mID) {
-        int count = 0;
+        int occupied_count = 0;
         for(int i=0; i<memory.length; i++){
             if(memory[i] == mID){
                 memory[i] = 0;
-                count++;
+                occupied_count++;
             }
         }
-        return count;
+        return occupied_count;
     }
 }
 
