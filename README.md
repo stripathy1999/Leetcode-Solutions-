@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
+| [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
+| [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
+| [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
+| [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
 ## Backtracking
 |  |
 | ------- |
