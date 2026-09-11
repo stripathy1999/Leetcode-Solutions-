@@ -4,6 +4,9 @@ class Solution {
         long day = 0;
 
         for(int task: tasks){
+
+            day++;
+            
             if(map.containsKey(task)){
                 long nextAvailableDay = map.get(task);
                 
@@ -12,8 +15,6 @@ class Solution {
                 }
             }
             map.put(task, space + day + 1);
-
-            day++;
         }
         return day;   
     }
