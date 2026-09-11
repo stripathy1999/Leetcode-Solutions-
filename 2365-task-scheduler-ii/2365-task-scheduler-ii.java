@@ -6,11 +6,11 @@ class Solution {
         for(int task: tasks){
 
             day++;
-            
+
             if(map.containsKey(task)){
                 long nextAvailableDay = map.get(task);
                 
-                if(day < nextAvailableDay){
+                if(day <= nextAvailableDay){
                     day = nextAvailableDay;
                 }
             }
