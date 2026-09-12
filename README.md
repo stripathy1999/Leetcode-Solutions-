@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
+| [0688-knight-probability-in-chessboard](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0688-knight-probability-in-chessboard) |
 ## Breadth-First Search
 |  |
 | ------- |
