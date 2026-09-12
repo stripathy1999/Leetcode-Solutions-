@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
@@ -181,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
