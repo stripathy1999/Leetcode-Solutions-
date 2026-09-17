@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [0875-koko-eating-bananas](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0875-koko-eating-bananas) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2365-task-scheduler-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2365-task-scheduler-ii) |
 | [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [0785-is-graph-bipartite](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -193,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
