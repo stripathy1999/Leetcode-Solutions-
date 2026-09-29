@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
