@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
