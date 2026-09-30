@@ -5,6 +5,11 @@ class Solution {
      //p is empty - return empty list
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> result = new ArrayList<>();
+
+        if(s.length() < p.length() || p.length() == 0){
+            return result;
+        }
+        
         int[] PcharCount = new int[26];
         int[] windowCharCount = new int[26];
 
