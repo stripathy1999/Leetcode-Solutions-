@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [0875-koko-eating-bananas](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
