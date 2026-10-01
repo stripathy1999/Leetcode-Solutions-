@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0688-knight-probability-in-chessboard) |
 ## Breadth-First Search
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
