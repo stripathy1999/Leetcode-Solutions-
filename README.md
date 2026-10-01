@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
 | [0875-koko-eating-bananas](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0983-minimum-cost-for-tickets) |
 | [1020-number-of-enclaves](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1584-min-cost-to-connect-all-points) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0688-knight-probability-in-chessboard) |
+| [0983-minimum-cost-for-tickets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0983-minimum-cost-for-tickets) |
 ## Breadth-First Search
 |  |
 | ------- |
