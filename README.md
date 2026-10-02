@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0688-knight-probability-in-chessboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0983-minimum-cost-for-tickets) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0252-meeting-rooms](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0252-meeting-rooms) |
+| [0435-non-overlapping-intervals](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 ## Shortest Path
