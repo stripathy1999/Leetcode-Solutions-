@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
+| [0057-insert-interval](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
