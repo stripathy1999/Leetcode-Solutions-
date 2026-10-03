@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
