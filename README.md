@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -294,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0252-meeting-rooms](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0252-meeting-rooms) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
