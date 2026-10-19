@@ -1,26 +1,28 @@
 class Solution {
-    String[] map = new String[]{"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-    public List<String> letterCombinations(String digits) {
-        List<String> result = new ArrayList<>();
-        StringBuilder sb = new StringBuilder(digits.length());
-        if(digits == null ||digits.length()==0){
-            return result;
-        }
+    String[] mapKeys = {"0", "1","abc","def","ghi","jkl", "mno", "pqrs", "tuv", "wxyz"};
 
-        dfs(digits, 0, result, sb);
+    public List<String> letterCombinations(String digits) {
+        
+        List<String> result = new ArrayList<>();
+        StringBuilder current = new StringBuilder();
+        
+        if(digits.length()==0) return result;
+
+        backtrack(result, current, digits, 0);
+
         return result;
     }
-    public void dfs(String digits, int index, List<String> result, StringBuilder sb){
-        if(sb.length() == digits.length()){
-            result.add(sb.toString());
+    public void backtrack(List<String> result, StringBuilder current, String digits, int index){
+        if(current.length() == digits.length()){
+            result.add(current.toString());
             return;
         }
 
-        String letters = map[digits.charAt(index) - '0'];
-        for(char ch : letters.toCharArray()){
-            sb.append(ch);
-            dfs(digits, index+1, result, sb);
-            sb.deleteCharAt(sb.length()-1);
+        String str = mapKeys[digits.charAt(index)-'0'];
+        for(int i = 0; i<str.length(); i++){
+            current.append(str.charAt(i));
+            backtrack(result, current, digits, index+1);
+            current.deleteCharAt(current.length()-1);
         }
     }
 }
