@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 ## Bidirectional Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
+| [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
