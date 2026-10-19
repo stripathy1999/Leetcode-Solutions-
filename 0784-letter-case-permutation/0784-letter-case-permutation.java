@@ -17,6 +17,8 @@ class Solution {
         }
 
         char ch = s.charAt(index);
+
+        //these two will do the upper case and lower case choice for the letter but we still need to keep the original letter in the list as well. 
         if(ch>='A'&& ch<='Z'){
             sb.append(Character.toLowerCase(ch));
             dfs(s, index+1, result, sb);
@@ -27,6 +29,8 @@ class Solution {
             dfs(s, index+1, result, sb);
             sb.deleteCharAt(sb.length()-1);
         }
+
+        //to retain the original character from the string
         sb.append(ch);
         dfs(s, index+1, result, sb);
         sb.deleteCharAt(sb.length()-1);
