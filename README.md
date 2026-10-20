@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0252-meeting-rooms](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0252-meeting-rooms) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Simulation
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Pigeonhole Principle
