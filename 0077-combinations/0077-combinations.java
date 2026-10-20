@@ -14,6 +14,10 @@ class Solution {
             return;
         }
 
+        if((k-current.size()) > (n-start+1)){
+            return;
+        }
+
         for(int i=start; i<=n; i++){
             current.add(i);
             dfs(n, k, current, result, i+1);
