@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0216-combination-sum-iii) |
 | [0252-meeting-rooms](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0252-meeting-rooms) |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
