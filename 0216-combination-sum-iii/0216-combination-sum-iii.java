@@ -9,7 +9,7 @@ class Solution {
     }
 
     public void dfs(int k, int n, int start, int currentSum, List<Integer> current, List<List<Integer>> result){
-        if(currentSum == n && current.size() == k){
+        if(current.size() == k && currentSum == n){
             result.add(new ArrayList<>(current));
             return;
         }
