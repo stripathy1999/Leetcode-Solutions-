@@ -14,7 +14,7 @@ class Solution {
             return;
         }
 
-        if((k-current.size()) > (n-start+1)){
+        if((k-current.size()) > (n-start+1)){ //here it means need > available numbers - need numbers = k-current.size() and available numbers = n-start+1
             return;
         }
 
