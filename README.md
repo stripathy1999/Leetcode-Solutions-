@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 ## Simulation
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
