@@ -13,7 +13,7 @@ class Solution {
             result.add(new ArrayList<>(current));
             return;
         }
-        if(k-current.size() > n-start+1){
+        if(k-current.size() > 9-start+1){
             return;
         }
         if(currentSum > n){
