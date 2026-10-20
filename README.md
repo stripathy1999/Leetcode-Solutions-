@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
