@@ -21,7 +21,7 @@ class Solution {
 
         for(int i=start; i<candidates.length; i++){
 
-            if(i != start && candidates[i] == candidates[i-1]){
+            if(i > start && candidates[i] == candidates[i-1]){
                  continue;
             }
             current.add(candidates[i]);
