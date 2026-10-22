@@ -15,9 +15,9 @@ class Solution {
 
         int count = 0;
         for(int col = 0; col<n; col++){
-            if(columnSet.contains(col) || diagonal1.contains(row-col) || diagonal2.contains(row+col)){
-                continue;
-            }
+            if(columnSet.contains(col)) continue;
+            if(diagonal1.contains(row-col)) continue;
+            if(diagonal2.contains(row+col)) continue;
 
             columnSet.add(col);
             diagonal1.add(row-col);
