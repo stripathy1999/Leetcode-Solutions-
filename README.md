@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0046-permutations) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
