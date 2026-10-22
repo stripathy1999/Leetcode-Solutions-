@@ -9,7 +9,7 @@ class Solution {
 
         if(pivot >= 0){
             int j = nums.length-1;
-            while(j>0 && nums[j] <= nums[pivot]){
+            while( nums[j] <= nums[pivot]){
                 j--;
             }
 
