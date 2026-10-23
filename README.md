@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2365-task-scheduler-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2365-task-scheduler-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
 | [2502-design-memory-allocator](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2502-design-memory-allocator) |
 | [3408-design-task-manager](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/3408-design-task-manager) |
@@ -366,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
 <!---LeetCode Topics End-->
