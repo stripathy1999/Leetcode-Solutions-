@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0684-redundant-connection](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0711-number-of-distinct-islands-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
@@ -369,5 +372,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/1804-implement-trie-ii-prefix-tree) |
 <!---LeetCode Topics End-->
