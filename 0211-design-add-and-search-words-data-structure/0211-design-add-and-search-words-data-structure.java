@@ -33,30 +33,30 @@ class WordDictionary {
     public boolean search(String word) {
         return dfs(word, 0, root);
     }
-    public boolean dfs(String word, int index, TrieNode current){
-        if(index == word.length()){
+    public boolean dfs(String word, int wordIndex, TrieNode current){
+        if(wordIndex == word.length()){
             return current.isWordEnd;
         }
 
-        char ch = word.charAt(index);
-
+        char ch = word.charAt(wordIndex);
+        
         if(ch == '.'){
             for(TrieNode child : current.children){
-                if(child == null){
+                if(child==null){
                     continue;
                 }
-                if(dfs(word, index+1, child) == true){
+                if(dfs(word, wordIndex+1, child) == true){
                     return true;
                 }
             }
             return false;
         }
-        
-        int childIndex = ch - 'a';
-        if(current.children[childIndex] == null){
+
+        int childIndexInTrie = ch - 'a';
+        if(current.children[childIndexInTrie] == null){
             return false;
         }
-        return dfs(word, index+1, current.children[childIndex]);
+        return dfs(word, wordIndex+1, current.children[childIndexInTrie]);
     }
 }
 
