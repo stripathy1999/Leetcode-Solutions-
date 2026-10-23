@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0784-letter-case-permutation) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/2034-stock-price-fluctuation) |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0052-n-queens-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
