@@ -10,7 +10,7 @@ class Solution {
 
         while(i<=j && j<s.length()){
             char ch = s.charAt(j);
-            freqMap[ch-'A']++;
+            freqMap[ch-'A']++;//here we add the character j in the window
 
             charMaxFrequency = Math.max(charMaxFrequency, freqMap[ch-'A']);
             
@@ -25,7 +25,7 @@ class Solution {
                 char c = s.charAt(i);
                 freqMap[c -'A']--;
                 i++;
-                j++;
+                j++; //move j because character j has already been added in the window, and we dont want to count it again when we decrease window 
             }
         }
         return maxLength;
