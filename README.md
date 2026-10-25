@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0216-combination-sum-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/stripathy1999/Leetcode-Solutions-/tree/master/0377-combination-sum-iv) |
